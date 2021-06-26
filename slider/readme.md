@@ -1,0 +1,1 @@
+# set slide images class to home_slide.
